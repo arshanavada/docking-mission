@@ -57,7 +57,7 @@ function draw() {
     gameState=2
   }
   else {
-    textsize(60); 
+    textSize(60); 
     text("Docking successfull",windowWidth/2,windowHeight/2);
   }
   drawSprites();
